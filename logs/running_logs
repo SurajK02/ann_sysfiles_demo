@@ -1,0 +1,50 @@
+[2021-10-17 17:14:14,572: INFO: training] >>>>> load data >>>>>
+[2021-10-17 17:14:18,194: INFO: training] >>>>> load data success >>>>>
+[2021-10-17 17:14:18,194: INFO: training] >>>>> normalize images >>>>>
+[2021-10-17 17:14:18,617: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-17 17:14:18,622: INFO: training] >>>>> init model >>>>>
+[2021-10-17 17:42:38,296: INFO: training] >>>>> load data >>>>>
+[2021-10-17 17:42:38,914: INFO: training] >>>>> load data success >>>>>
+[2021-10-17 17:42:38,914: INFO: training] >>>>> normalize images >>>>>
+[2021-10-17 17:42:39,082: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-17 17:42:39,082: INFO: training] >>>>> init model >>>>>
+[2021-10-18 08:41:36,504: INFO: training] >>>>> load data >>>>>
+[2021-10-18 08:41:40,644: INFO: training] >>>>> load data success >>>>>
+[2021-10-18 08:41:40,645: INFO: training] >>>>> normalize images >>>>>
+[2021-10-18 08:41:40,796: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-18 08:41:40,796: INFO: training] >>>>> init model >>>>>
+[2021-10-18 08:41:41,786: INFO: training] >>>>> model init success >>>>>
+[2021-10-18 08:41:41,786: INFO: training] >>>>> train model >>>>>
+[2021-10-18 08:42:47,042: INFO: training] >>>>> model training success >>>>>
+[2021-10-18 08:45:32,855: INFO: training] >>>>> load data >>>>>
+[2021-10-18 08:45:34,142: INFO: training] >>>>> load data success >>>>>
+[2021-10-18 08:45:34,142: INFO: training] >>>>> normalize images >>>>>
+[2021-10-18 08:45:34,303: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-18 08:45:34,303: INFO: training] >>>>> init model >>>>>
+[2021-10-18 08:45:34,784: INFO: training] >>>>> model init success >>>>>
+[2021-10-18 08:45:34,784: INFO: training] >>>>> train model >>>>>
+[2021-10-18 08:46:24,554: INFO: training] >>>>> model training success >>>>>
+[2021-10-18 23:10:48,714: INFO: training] >>>>> load data >>>>>
+[2021-10-18 23:10:49,405: INFO: training] >>>>> load data success >>>>>
+[2021-10-18 23:10:49,405: INFO: training] >>>>> normalize images >>>>>
+[2021-10-18 23:10:49,779: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-18 23:10:49,783: INFO: training] >>>>> init model >>>>>
+[2021-10-18 23:10:50,081: INFO: training] >>>>> model init success >>>>>
+[2021-10-18 23:10:50,081: INFO: training] >>>>> train model >>>>>
+[2021-10-18 23:11:51,389: INFO: training] >>>>> model training success >>>>>
+[2021-10-19 08:47:59,752: INFO: training] >>>>> load data >>>>>
+[2021-10-19 08:48:01,148: INFO: training] >>>>> load data success >>>>>
+[2021-10-19 08:48:01,148: INFO: training] >>>>> normalize images >>>>>
+[2021-10-19 08:48:01,367: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-19 08:48:01,370: INFO: training] >>>>> init model >>>>>
+[2021-10-19 08:48:01,897: INFO: training] >>>>> model init success >>>>>
+[2021-10-19 08:48:01,897: INFO: training] >>>>> train model >>>>>
+[2021-10-19 08:49:21,321: INFO: training] >>>>> model training success >>>>>
+[2021-10-19 08:53:47,943: INFO: training] >>>>> load data >>>>>
+[2021-10-19 08:53:48,468: INFO: training] >>>>> load data success >>>>>
+[2021-10-19 08:53:48,468: INFO: training] >>>>> normalize images >>>>>
+[2021-10-19 08:53:48,628: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-19 08:53:48,628: INFO: training] >>>>> init model >>>>>
+[2021-10-19 08:53:48,764: INFO: training] >>>>> model init success >>>>>
+[2021-10-19 08:53:48,764: INFO: training] >>>>> train model >>>>>
+[2021-10-19 08:54:34,318: INFO: training] >>>>> model training success >>>>>
