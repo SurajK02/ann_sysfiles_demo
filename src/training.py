@@ -10,7 +10,8 @@ import logging
 logging_str = "[%(asctime)s: %(levelname)s: %(module)s] %(message)s"
 log_dir = "logs"
 os.makedirs(log_dir, exist_ok=True)
-logging.basicConfig(filename=os.path.join(log_dir, "running_logs"), level=logging.INFO, format=logging_str, filemode='a')
+logging.basicConfig(filename=os.path.join(log_dir, "running_logs"), level=logging.INFO, format=logging_str,
+                    filemode='a')
 
 
 def training(config_path):
@@ -49,6 +50,7 @@ def training(config_path):
     os.makedirs(path, exist_ok=True)
     save_model(model=model, model_name=model_name, model_dir=path)
 
+
 if __name__ == "__main__":
     args = argparse.ArgumentParser()
 
@@ -57,5 +59,3 @@ if __name__ == "__main__":
     parsed_args = args.parse_args()
 
     training(config_path=parsed_args.config)
-    
-

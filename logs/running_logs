@@ -48,3 +48,11 @@
 [2021-10-19 08:53:48,764: INFO: training] >>>>> model init success >>>>>
 [2021-10-19 08:53:48,764: INFO: training] >>>>> train model >>>>>
 [2021-10-19 08:54:34,318: INFO: training] >>>>> model training success >>>>>
+[2021-10-21 08:02:53,448: INFO: training] >>>>> load data >>>>>
+[2021-10-21 08:02:54,081: INFO: training] >>>>> load data success >>>>>
+[2021-10-21 08:02:54,081: INFO: training] >>>>> normalize images >>>>>
+[2021-10-21 08:02:54,295: INFO: training] >>>>> image normalization success >>>>>
+[2021-10-21 08:02:54,295: INFO: training] >>>>> init model >>>>>
+[2021-10-21 08:02:54,457: INFO: training] >>>>> model init success >>>>>
+[2021-10-21 08:02:54,457: INFO: training] >>>>> train model >>>>>
+[2021-10-21 08:03:40,984: INFO: training] >>>>> model training success >>>>>
