@@ -7,13 +7,17 @@ params:
   loss_function: sparse_categorical_crossentropy
   metrics: accuracy
   optimizer: SGD
+  patience: 5
+  restore_best_weights: True
 
 artifacts:
   artifacts_dir: artifacts
   model_dir: models
   plot_dir: plots
   checkpoint_dir: checkpoints
-  model_name: model.h5
+  model_name: model
+  patience: 5
+  restore_best_weights: True
 
 logs:
   logs_dir: logs
